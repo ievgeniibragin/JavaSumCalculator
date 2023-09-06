@@ -6,7 +6,7 @@ public class SumCalculator {
     public static void main(String[] args) {
         // Create a Scanner object to read input
         Scanner scanner = new Scanner(System.in);
-
+// class bude
         // Ask the user for the first number
         System.out.print("Enter the first number: ");
         int num1 = scanner.nextInt(); // Read the user's input
