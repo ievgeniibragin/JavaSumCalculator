@@ -44,9 +44,11 @@ public class SumCalculator {
         System.out.println("num1 + aLong = " + longResult);
         System.out.println("num1 + aFloat = " + floatResult);
         System.out.println("num1 + aDouble = " + doubleResult);
-
+        System.out.println("num1 + aDouble = " + doubleResult);
+        System.out.println("num1 + aDouble = " + doubleResult);
         // Close the scanner to free up resources
         // Close
+        // vishlo
         scanner.close();
     }
 }
