@@ -49,6 +49,7 @@ public class SumCalculator {
         // Close the scanner to free up resources
         // Close
         // vishlo
+        // vishlo 1
         scanner.close();
     }
 }
